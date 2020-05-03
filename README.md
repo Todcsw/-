@@ -10,3 +10,5 @@
 - 项目学习笔记地址:https://note.youdao.com/ynoteshare1/index.html?id=2611437fa56c5d139a552e643448a816&type=notebook
 ## 总结
 我个人认为数据结构比较重要得好好学,而且上面的视频教程也非常的好。加油！奥里给！
+
+个人联系方式QQ:1759864302
